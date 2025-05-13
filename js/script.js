@@ -106,7 +106,7 @@ mobileMenuBtn.addEventListener( 'click', () =>
 
 // Typing Animation
 const typingText = document.querySelector( '.typing-text' );
-const words = [ 'Web Developer', 'App Developer' ];
+const words = [ 'Web Developer'];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
